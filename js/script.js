@@ -1670,7 +1670,7 @@ function displayFutureForecast(data) {
                     </div>
                     <div class="box_row">
                         <span>وضعیت:</span>
-                        <span>وضعیت: ${forecast.weatherDescription}</span>
+                        <span>${forecast.weatherDescription}</span>
                     </div>
                     <div class="box_row">
                         <span>رطوبت:</span>
